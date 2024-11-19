@@ -5,9 +5,15 @@ body {
     padding: 20px;
 }
 
+h1 {    
+    text-align: center;
+    margin: 5vw 0;
+}
+
 .collection {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 20px;
 }
 
